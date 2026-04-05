@@ -9,4 +9,5 @@
 По умолчанию ext4 резервирует 5% места для root. Команда уменьшила резерв до 1% — это освободило ещё около 1GB.
 Проверка через df -h / показала что освободилось больше 6GB.
 
-https://asciinema.org/a/pZcjSDmnZxMrgXEL
+
+https://asciinema.org/a/TFzjjOIlIsY9Oz82
