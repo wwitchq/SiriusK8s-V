@@ -4,7 +4,7 @@
 | Vershinina   | Darya      |   ✅   |   ✅   |   ✅   |   ✅   |
 | Garipov      | Samat      |   ✅   |   ✅   |   ✅   |   ✅    |
 | Goryunova    | Darya      |   ✅   |   ✅   |   ✅   |   ✅    |
-| Gutnik       | Vadim      |   ✅   |   ✅   |   ✅     |   ✅    |
+| Gutnik       | Vadim      |   ✅   |   ✅   |   ✅   |   ✅    |
 | Dyakonova    | Violetta   |   ✅   |   ✅   |   ✅   |   ✅    |
 | Ilalova      | Regina     |   ✅   |   ✅   |   ✅   |   ✅    |
 | Kashirskiy   | Denis      |   ✅   |   ✅   |   ✅   |   ✅    |

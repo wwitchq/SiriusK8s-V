@@ -8,14 +8,14 @@
 | Goryunova    | Darya      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 | Gutnik       | Vadim      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 | Dyakonova    | Violetta   |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-| Ilalova      | Regina     |   ✅  |   ✅  |   ✅  |   ✅  |  ✅    |   ✅  |   ✅  |
+| Ilalova      | Regina     |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 | Kashirskiy   | Denis      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-| Komarov      | Artem      |   ✅  |   ✅  |   ✅  |       |       |       |       |
-| Krasnov      | Filipp     |       |       |      |       |       |       |       |
-| Kulikov      | Kirill     |    ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+| Komarov      | Artem      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+| Krasnov      | Filipp     |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+| Kulikov      | Kirill     |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 | Mokhnatkina  | Yana       |       |       |      |       |       |       |       |
-| Petrovskaya  | Nika       |    ✅ |   ✅  |  ✅  |   ✅   |   ✅  |   ✅  |    ✅  |
-| Sedykh       | Pavel      |       |       |       |       |       |       |       |
+| Petrovskaya  | Nika       |   ✅  |   ✅  |  ✅   |   ✅  |   ✅  |   ✅  |    ✅  |
+| Sedykh       | Pavel      |       |       |      |       |       |       |       |
 | Tovpeko      | Gleb       |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 | Khafizov     | Aigiz      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 | Tsytsenko    | Tatyana    |   ✅  |   ✅  |   ✅  |   ✅  |    ✅ |   ✅  |   ✅  |

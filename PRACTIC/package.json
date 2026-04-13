@@ -1,0 +1,12 @@
+{
+  "name": "rate-limiter-middleware",
+  "version": "1.0.0",
+  "description": "Rate limiting and logging middleware",
+  "main": "middleware.js",
+  "scripts": {
+    "start": "node middleware.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}

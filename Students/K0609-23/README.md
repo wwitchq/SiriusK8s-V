@@ -15,7 +15,7 @@
 | Kuznetsov      | Ilya         |    ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |
 | Malimon        | Yaroslava    |    ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |
 | Mikhailov      | Ivan         |    ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |
-| Nalizko        | Alyona       |        |       |       |       |       |       |       |
+| Nalizko        | Alyona       |    ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |
 | Nikiyan        | Tigran       |    ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |   ✓   |
 | Rakhmanov      | Alik         |        |       |       |       |       |       |       |
 | Rudinskaya     | Ekaterina    |        |       |       |       |       |       |       |
