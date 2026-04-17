@@ -1,0 +1,30 @@
+asciinema upload pr0.cast 
+View the recording at:
+
+    https://asciinema.org/a/WT2ANlt0fWkAFSAs
+
+asciinema upload pr1.cast 
+View the recording at:
+
+    https://asciinema.org/a/cz70UAECfVsyOptt
+
+asciinema upload pr2.cast 
+View the recording at:
+
+    https://asciinema.org/a/B7WX5OgG1l5S7tqy
+
+asciinema upload pr3.cast 
+View the recording at:
+
+    https://asciinema.org/a/qt8z5H3meHjBOtwb
+
+asciinema upload pr4.cast 
+View the recording at:
+
+    https://asciinema.org/a/xlYPZElGWbHk2yOq
+
+asciinema upload pr5.cast 
+View the recording at:
+
+    https://asciinema.org/a/qfeZYCtYLss59qbs
+
