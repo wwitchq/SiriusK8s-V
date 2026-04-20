@@ -4,7 +4,7 @@ WORKDIR /app
 COPY main.go go.mod go.sum ./
 RUN go build -o app .
 
-FROM alpine:latest
+FROM alpine:latest as runtime
 RUN apk --no-cache add ca-certificates curl postgresql-client
 WORKDIR /app
 COPY --from=builder /app/app .

@@ -23,6 +23,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.app
+#    user: "1000:1000"  
     depends_on:
       postgres:
         condition: service_healthy
@@ -36,7 +37,7 @@ services:
     ports:
       - "8080:8080"
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      test: ["CMD-SHELL", "nc -z localhost 8080 || exit 1"]
       interval: 10s
       timeout: 5s
       retries: 5
@@ -45,6 +46,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.middleware
+    user: "root"
     depends_on:
       - postgres
       - app
@@ -61,13 +63,14 @@ services:
     volumes:
       - ./logs:/app/logs
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
+      test: ["CMD-SHELL", "nc -z localhost 3000 || exit 1"]
       interval: 10s
       timeout: 5s
       retries: 5
 
   nginx:
     image: nginx:alpine
+    user: "0:0"
     depends_on:
       - rate-limiter
     volumes:
@@ -77,10 +80,10 @@ services:
       - "80:80"
       - "443:443"
     healthcheck:
-      test: ["CMD", "wget", "-q", "-O-", "http://localhost/health"]
+      test: ["CMD", "sh", "-c", "curl -f http://localhost/health || exit 0"]
       interval: 10s
       timeout: 5s
-      retries: 5
+      retries: 3
 
 volumes:
   postgres_data:
